@@ -1,6 +1,6 @@
 function Logo() {
     return (
-        <h1 className='logo'>Hello.</h1>
+        <h1 id='logo'>Hello<span>.</span></h1>
     );
   }
   
